@@ -1,0 +1,12 @@
+{
+  "name": "com.unityexample.com.unityexample.moveobject",
+  "version": "1.0.1",
+  "displayName": "Move object",
+  "description": "This tool moves an object",
+  "unity": "2022.3",
+  "author": {
+    "name": "Ugurcan Aksak",
+    "email": "ugurcanaksak@hotmail.com",
+    "url": ""
+  }
+}
